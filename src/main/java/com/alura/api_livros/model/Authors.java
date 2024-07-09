@@ -33,7 +33,7 @@ public class Authors {
     public Authors(){}
     @Override
     public String toString() {
-        return "-----------------------<Autor>-----------------------" +
+        return "\n-----------------------AUTOR-----------------------" +
                 "\nnome: " + nome +
                 "\nData de Nascimento: " + anoNascimento +
                 "\nData de Falecimento: " + anoFalecimento+

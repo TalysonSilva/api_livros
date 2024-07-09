@@ -35,11 +35,11 @@ public class Book {
     }
     @Override
     public String toString() {
-        return "\n----------- LIVRO ------------\n" +
-                "nome='" + nome + '\'' +
-                ", autor=" + authors.getNome()+
-                ", idioma=" + idioma +
-                ", numeroTotalDownloads=" + numeroTotalDownloads +
-                '}';
+        return "\n-----------------------BOOK-------------------------" +
+                "\nTitulo: " + nome +
+                "\nAutor: " + authors.getNome()+
+                "\nIdioma: " + idioma +
+                "\nNumero Total Downloads: " + numeroTotalDownloads +
+                 "\n---------------------------------------------------";
     }
 }
