@@ -1,6 +1,6 @@
 # APi Livros
 
-Este projeto surgiu como um desafio proposto pela Oracle + Alura que consiste numa criação de uma aplicação que consome a API [Gutendex](https://gutendex.com/) que é biblioteca que possuir em sua base de dados diversos livros incluindo a informação dos autores essa informação da aplicação serão armazenados nosso próprio banco de dados e depois reutilizado ex: Solicitar o histórico de livros pesquisado.
+Este projeto surgiu como um desafio proposto pela Oracle + Alura que consiste numa criação de uma aplicação que consome a API [Gutendex](https://gutendex.com/) que é biblioteca que possuir em sua base de dados diversos livros incluindo a informação dos autores essa informação da aplicação serão armazenados no PostgreSQL e depois reutilizado as informações armazenadas.
 
 ## 🛠 Tecnologia Utiizadas
 
