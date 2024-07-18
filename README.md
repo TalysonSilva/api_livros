@@ -1,5 +1,9 @@
 # APi Livros
 
+<p align="center">
+   <img src="https://img.shields.io/badge/build-CONCLUIDO-brightgreen?style=for-the-badge&logo=DESENVOLVIMENTO%20&logoColor=500%2C100%2C100&label=STATUS%20"/> </p>
+</P>
+
 Este projeto surgiu como um desafio proposto pela Oracle + Alura que consiste numa criação de uma aplicação que consome a API [Gutendex](https://gutendex.com/) que é biblioteca que possuir em sua base de dados diversos livros incluindo a informação dos autores essa informação da aplicação serão armazenados no PostgreSQL e depois reutilizado as informações armazenadas.
 
 ## 🛠 Tecnologia Utiizadas
