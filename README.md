@@ -7,11 +7,7 @@
 Este projeto surgiu como um desafio proposto pela Oracle + Alura que consiste numa criação de uma aplicação que consome a API [Gutendex](https://gutendex.com/) que é biblioteca que possuir em sua base de dados diversos livros incluindo a informação dos autores essa informação da aplicação serão armazenados no PostgreSQL e depois reutilizado as informações armazenadas.
 
 ## 🛠 Tecnologia Utiizadas
-
-- Java 21
-- Maven
-- Spring Boot 3.3.1
-- PostgreSQL
+[![Ferramenta](https://skillicons.dev/icons?i=java,spring,maven,postgres)](https://skillicons.dev)
 
 ## Funcionalidades
 
